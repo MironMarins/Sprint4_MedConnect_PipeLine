@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ApplicationSprint3.props" />
+</Project>

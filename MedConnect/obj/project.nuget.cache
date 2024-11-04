@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZToUvZPNq2s=",
+  "dgSpecHash": "GqVq+2HDIl4=",
   "success": true,
-  "projectFilePath": "D:\\mundo do miron\\mundo do miron\\fiap\\azure\\cp3\\PipeLine_MedConnect\\MedConnect\\ApplicationSprint3.csproj",
+  "projectFilePath": "C:\\Users\\Miron\\OneDrive\\Área de Trabalho\\Sprint4 repositorio\\Sprint4_MedConnect_PipeLine\\MedConnect\\ApplicationSprint3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Miron\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Miron\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

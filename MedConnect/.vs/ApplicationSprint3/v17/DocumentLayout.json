@@ -1,16 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\mundo do miron\\mundo do miron\\fiap\\azure\\cp3\\PipeLine_MedConnect\\MedConnect\\",
+  "WorkspaceRootPath": "C:\\Users\\Miron\\OneDrive\\\u00C1rea de Trabalho\\Sprint4 repositorio\\Sprint4_MedConnect_PipeLine\\MedConnect\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{269D9326-530F-4CA6-BB98-12B06F6F7E50}|..\\ApplicationSprint3Tests\\ApplicationSprint3Tests.csproj|d:\\mundo do miron\\mundo do miron\\fiap\\azure\\cp3\\pipeline_medconnect\\applicationsprint3tests\\data\\applicationdbcontexttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\mundo do miron\\mundo do miron\\fiap\\azure\\cp3\\PipeLine_MedConnect\\ApplicationSprint3Tests\\Data\\ApplicationDbContextTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{269D9326-530F-4CA6-BB98-12B06F6F7E50}|..\\ApplicationSprint3Tests\\ApplicationSprint3Tests.csproj|d:\\mundo do miron\\mundo do miron\\fiap\\azure\\cp3\\pipeline_medconnect\\applicationsprint3tests\\applicationsprint3tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB3F9A2C-C138-4DD5-8613-DC85C5FF8C7A}|ApplicationSprint3.csproj|d:\\mundo do miron\\mundo do miron\\fiap\\azure\\cp3\\pipeline_medconnect\\medconnect\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB3F9A2C-C138-4DD5-8613-DC85C5FF8C7A}|ApplicationSprint3.csproj|c:\\users\\miron\\onedrive\\\u00E1rea de trabalho\\sprint4 repositorio\\sprint4_medconnect_pipeline\\medconnect\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB3F9A2C-C138-4DD5-8613-DC85C5FF8C7A}|ApplicationSprint3.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\mundo do miron\\mundo do miron\\fiap\\azure\\cp3\\PipeLine_MedConnect\\ApplicationSprint3Tests\\ApplicationSprint3Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,39 +43,31 @@
               "DocumentIndex": 0,
               "Title": "ApplicationDbContextTests.cs",
               "DocumentMoniker": "D:\\mundo do miron\\mundo do miron\\fiap\\azure\\cp3\\PipeLine_MedConnect\\ApplicationSprint3Tests\\Data\\ApplicationDbContextTests.cs",
-              "RelativeDocumentMoniker": "..\\ApplicationSprint3Tests\\Data\\ApplicationDbContextTests.cs",
               "ToolTip": "D:\\mundo do miron\\mundo do miron\\fiap\\azure\\cp3\\PipeLine_MedConnect\\ApplicationSprint3Tests\\Data\\ApplicationDbContextTests.cs",
-              "RelativeToolTip": "..\\ApplicationSprint3Tests\\Data\\ApplicationDbContextTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T10:06:45.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationSprint3Tests.csproj",
-              "DocumentMoniker": "D:\\mundo do miron\\mundo do miron\\fiap\\azure\\cp3\\PipeLine_MedConnect\\ApplicationSprint3Tests\\ApplicationSprint3Tests.csproj",
-              "RelativeDocumentMoniker": "..\\ApplicationSprint3Tests\\ApplicationSprint3Tests.csproj",
-              "ToolTip": "D:\\mundo do miron\\mundo do miron\\fiap\\azure\\cp3\\PipeLine_MedConnect\\ApplicationSprint3Tests\\ApplicationSprint3Tests.csproj",
-              "RelativeToolTip": "..\\ApplicationSprint3Tests\\ApplicationSprint3Tests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-31T09:59:11.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T10:06:45.192Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ApplicationSprint3Tests.csproj",
+              "DocumentMoniker": "D:\\mundo do miron\\mundo do miron\\fiap\\azure\\cp3\\PipeLine_MedConnect\\ApplicationSprint3Tests\\ApplicationSprint3Tests.csproj",
+              "ToolTip": "D:\\mundo do miron\\mundo do miron\\fiap\\azure\\cp3\\PipeLine_MedConnect\\ApplicationSprint3Tests\\ApplicationSprint3Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-31T09:59:11.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\mundo do miron\\mundo do miron\\fiap\\azure\\cp3\\PipeLine_MedConnect\\MedConnect\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Miron\\OneDrive\\\u00C1rea de Trabalho\\Sprint4 repositorio\\Sprint4_MedConnect_PipeLine\\MedConnect\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\mundo do miron\\mundo do miron\\fiap\\azure\\cp3\\PipeLine_MedConnect\\MedConnect\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Miron\\OneDrive\\\u00C1rea de Trabalho\\Sprint4 repositorio\\Sprint4_MedConnect_PipeLine\\MedConnect\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T09:44:34.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T09:44:34.203Z"
             }
           ]
         }
